@@ -1,0 +1,52 @@
+[
+  {
+    "db_source": "1776482872988",
+    "timestamp": "2026-04-18",
+    "category_id": 506633796,
+    "category_name": null,
+    "product_id": 506623139,
+    "product_name": "LTHR BG 17",
+    "price": 159,
+    "currency": "GBP"
+  },
+  {
+    "db_source": "1776482872988",
+    "timestamp": "2026-04-18",
+    "category_id": 525194919,
+    "category_name": null,
+    "product_id": 525175808,
+    "product_name": "POLKA DOT JACKET",
+    "price": 35.99,
+    "currency": "GBP"
+  },
+  {
+    "db_source": "1776482872988",
+    "timestamp": "2026-04-18",
+    "category_id": 525197087,
+    "category_name": null,
+    "product_id": 525176713,
+    "product_name": "ASYMMETRIC HEM PRINTED DRESS",
+    "price": 39.99,
+    "currency": "GBP"
+  },
+  {
+    "db_source": "1776482872988",
+    "timestamp": "2026-04-18",
+    "category_id": 498884585,
+    "category_name": null,
+    "product_id": 498876077,
+    "product_name": "STRIPED FLORAL PRINT SHIRT",
+    "price": 27.99,
+    "currency": "GBP"
+  },
+  {
+    "db_source": "1776482872988",
+    "timestamp": "2026-04-18",
+    "category_id": 522580305,
+    "category_name": null,
+    "product_id": 522580016,
+    "product_name": "SATIN STRAPPY MINI DRESS",
+    "price": 25.99,
+    "currency": "GBP"
+  }
+]
